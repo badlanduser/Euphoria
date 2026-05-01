@@ -2557,3 +2557,9 @@ Entries:
         real.)
   id: 319
   time: '2026-05-01T13:29:27.0000000+00:00'
+- author: civilCornball
+  changes:
+    - type: Tweak
+      message: Oracle now yells less frequently; about 3 times per request.
+  id: 320
+  time: '2026-05-01T13:30:17.0000000+00:00'
