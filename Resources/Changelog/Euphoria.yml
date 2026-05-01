@@ -2530,3 +2530,12 @@ Entries:
       message: Ore Boxes can now hold artifact fragments.
   id: 316
   time: '2026-05-01T10:02:28.0000000+00:00'
+- author: Tarazicon
+  changes:
+    - type: Tweak
+      message: >-
+        CentCom regrets to inform the crew that Michael, the previous announcer
+        for all the alerts and announcements, has retired. They have since hired
+        a new guy, we don't quite know what his name is, but.. He's there.
+  id: 317
+  time: '2026-05-01T10:30:47.0000000+00:00'
