@@ -2518,3 +2518,9 @@ Entries:
         & electric grill combined.
   id: 314
   time: '2026-05-01T05:02:56.0000000+00:00'
+- author: civilCornball
+  changes:
+    - type: Tweak
+      message: The Oracle now yells out its requests to everyone in earshot.
+  id: 315
+  time: '2026-05-01T05:07:04.0000000+00:00'
