@@ -2545,3 +2545,15 @@ Entries:
       message: Added "Space Station Rhino Pills".
   id: 318
   time: '2026-05-01T10:34:09.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Pet Shop vending machine for mappers & in the random clothing vending
+        machine pool.
+    - type: Add
+      message: >-
+        Cleanbots and Weldbots can now be leashed (the clean-o-tron will is
+        real.)
+  id: 319
+  time: '2026-05-01T13:29:27.0000000+00:00'
