@@ -2539,3 +2539,9 @@ Entries:
         a new guy, we don't quite know what his name is, but.. He's there.
   id: 317
   time: '2026-05-01T10:30:47.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Added "Space Station Rhino Pills".
+  id: 318
+  time: '2026-05-01T10:34:09.0000000+00:00'
