@@ -2732,3 +2732,15 @@ Entries:
       message: Added AAC words
   id: 343
   time: '2026-05-09T08:18:36.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Add
+      message: Drumkit
+    - type: Add
+      message: Drumkit cargo purchase
+    - type: Add
+      message: Drumkit flatpack
+    - type: Add
+      message: Instrument flatpack for more flatpacks to be added
+  id: 344
+  time: '2026-05-09T22:49:38.0000000+00:00'
