@@ -2806,3 +2806,11 @@ Entries:
         them in stock in their uplinks.
   id: 351
   time: '2026-05-13T09:55:00.0000000+00:00'
+- author: WhiteLightningTwister
+  changes:
+    - type: Add
+      message: Added more cyborg chargers to Glacier.
+    - type: Fix
+      message: Fixed LV & MV issues.
+  id: 352
+  time: '2026-05-14T16:29:07.0000000+00:00'
