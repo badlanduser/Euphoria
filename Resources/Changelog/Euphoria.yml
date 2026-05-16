@@ -2903,3 +2903,9 @@ Entries:
       message: Adjusted evac on arena
   id: 362
   time: '2026-05-16T21:32:16.0000000+00:00'
+- author: sprkl
+  changes:
+    - type: Fix
+      message: Fixed traits not applying correctly when swapping characters.
+  id: 363
+  time: '2026-05-16T22:42:27.0000000+00:00'
