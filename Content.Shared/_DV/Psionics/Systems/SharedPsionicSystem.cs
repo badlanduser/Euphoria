@@ -22,6 +22,7 @@ public abstract partial class SharedPsionicSystem : EntitySystem
     [Dependency] protected readonly SharedPopupSystem Popup = default!;
     [Dependency] private readonly SharedStunSystem _stun = default!;
     [Dependency] private readonly SharedStutteringSystem  _stuttering = default!;
+    [Dependency] private readonly SharedCryostorageSystem _cryoSystem = default!; // Floofstation
 
     protected EntityQuery<PotentialPsionicComponent> PotentialQuery;
     protected EntityQuery<PsionicComponent> PsionicQuery;
@@ -111,6 +112,11 @@ public abstract partial class SharedPsionicSystem : EntitySystem
             var message = Loc.GetString("psionic-cannot-target-shielded");
             Popup.PopupClient(message, aggressor, aggressor, PopupType.SmallCaution);
         }
+
+        // Floofstation - don't allow shit to touch cryosleeping bodies. This is mostly to stop mass mindswap from swapping with mobs there.
+        // Sometimes the cryostorage system fails to pause them correctly, so this hack is needed.
+        if (_cryoSystem.IsInPausedMap(psion))
+            return false;
 
         return !ev.IsShielded;
     }

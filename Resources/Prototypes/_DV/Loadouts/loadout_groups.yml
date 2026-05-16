@@ -1114,6 +1114,7 @@
 # Wildcards
 - type: loadoutGroup
   id: BoxerJumpsuit
+  parent: [FloofJumpsuits] # Floofstation
   name: loadout-group-boxer-jumpsuit
   loadouts:
   - BoxerShorts
@@ -1121,6 +1122,7 @@
 
 - type: loadoutGroup
   id: BoxerGloves
+  parent: [FloofGloves] # Floofstation
   name: loadout-group-boxer-gloves
   loadouts:
   - RedBoxingGloves

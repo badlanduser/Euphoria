@@ -34,8 +34,6 @@ internal sealed class MassMindSwapRule : StationEventSystem<MassMindSwapRuleComp
     [Dependency] private readonly MindSwapPowerSystem _mindSwap = default!;
     [Dependency] private readonly ChatSystem _chat = default!;
     [Dependency] private readonly AudioSystem _audio = default!;
-    [Dependency] private readonly SharedConsentSystem _consent = default!; // Floofstation
-    [Dependency] private readonly SharedCryostorageSystem _cryoSystem = default!; // Floofstation
 
     private static readonly ProtoId<ConsentTogglePrototype> MindswapConsent = "MassMindswap"; // Floofstation
 
@@ -89,8 +87,7 @@ internal sealed class MassMindSwapRule : StationEventSystem<MassMindSwapRuleComp
             if (!_mobStateSystem.IsAlive(psion, mobState) || !_psionic.CanBeTargeted(psion))
                 continue;
 
-            if (!_consent.HasConsent(psion, MindswapConsent) // Floofstation - requires consent
-                || _cryoSystem.IsInPausedMap(psion)) // This hack is needed because sometimes cryo fails to pause mobs
+            if (!_consent.HasConsent(psion, MindswapConsent)) // Floofstation - requires consent
                 continue;
 
             psionicPool.Add(psion);
