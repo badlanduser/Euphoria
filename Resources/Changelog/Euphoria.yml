@@ -2936,3 +2936,25 @@ Entries:
         additional fluids.
   id: 367
   time: '2026-05-18T10:26:05.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Add
+      message: >-
+        There is now a "clothing bypass" toggle that you can access by
+        right-clicking yourself. Toggling it on allows others and you to
+        interact with your lewd organs regardless of clothing.
+    - type: Tweak
+      message: >-
+        Some verbs like "toggle undies" can now be used even if the target has
+        outer clothing, so long as they don't have anything underneath and the
+        outer clothing is not a hardsuit or similar.
+    - type: Fix
+      message: >-
+        Removed the redundant "lewd interactions" consent toggle as it wasn't
+        used anywhere.
+    - type: Fix
+      message: >-
+        The ai eye should no longer be able to see interaction verb popups from
+        anywhere near a camera.
+  id: 368
+  time: '2026-05-18T10:30:41.0000000+00:00'
