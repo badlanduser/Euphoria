@@ -2988,3 +2988,11 @@ Entries:
       message: Metamorphic recipes (stacks) for burgers
   id: 371
   time: '2026-05-21T10:03:17.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Ported Jerma from Frontier where he has been hiding from the NFSD for
+        multiple crimes.
+  id: 372
+  time: '2026-05-21T10:12:52.0000000+00:00'
