@@ -2982,3 +2982,9 @@ Entries:
         meltdown.)
   id: 370
   time: '2026-05-18T12:33:25.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Add
+      message: Metamorphic recipes (stacks) for burgers
+  id: 371
+  time: '2026-05-21T10:03:17.0000000+00:00'
