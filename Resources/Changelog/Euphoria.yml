@@ -3173,3 +3173,12 @@ Entries:
       message: Bepis will now display in hand properly.
   id: 397
   time: '2026-05-26T12:31:12.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        The service techfab has new starting recipes. Service members can now
+        print lunchboxes, happy honk boxes & other things for specific food
+        recpies.
+  id: 398
+  time: '2026-05-28T10:04:11.0000000+00:00'
