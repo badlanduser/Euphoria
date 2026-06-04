@@ -3349,3 +3349,9 @@ Entries:
         overloaded: NTES Propeller, NTES BC20, NTES Kabooze, NTES Meta
   id: 420
   time: '2026-06-04T12:03:06.0000000+00:00'
+- author: ItsDzordz
+  changes:
+    - type: Add
+      message: Added Italian plushie.
+  id: 421
+  time: '2026-06-04T12:04:32.0000000+00:00'
