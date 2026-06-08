@@ -3426,3 +3426,11 @@ Entries:
         changes and also broke the some changes
   id: 430
   time: '2026-06-07T04:56:16.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Newer model handheld radios are being provided to the station that allow
+        for you to be able to set the frequency, toggle the mic and or speaker.
+  id: 431
+  time: '2026-06-08T02:21:58.0000000+00:00'
