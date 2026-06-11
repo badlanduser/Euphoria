@@ -3538,3 +3538,11 @@ Entries:
         the visual affects of infection anoms.
   id: 443
   time: '2026-06-10T12:43:00.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: Engineering emotional support collars will have their proper IDs.
+    - type: Fix
+      message: Technical Assistants will no longer spawn with duplicate PDAs.
+  id: 444
+  time: '2026-06-11T12:51:10.0000000+00:00'
