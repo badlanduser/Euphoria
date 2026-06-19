@@ -3710,3 +3710,11 @@ Entries:
         traits.
   id: 463
   time: '2026-06-19T09:13:29.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: >-
+        Fix RadiationBlockingProjector, it will now use the right holo
+        projection.
+  id: 464
+  time: '2026-06-19T09:18:47.0000000+00:00'
