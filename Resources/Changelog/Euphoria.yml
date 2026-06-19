@@ -3718,3 +3718,11 @@ Entries:
         projection.
   id: 464
   time: '2026-06-19T09:18:47.0000000+00:00'
+- author: Aureuix
+  changes:
+    - type: Add
+      message: >-
+        Added a whole bunch of sounds to avali and resomi. Birds, go make your
+        bird sounds.
+  id: 465
+  time: '2026-06-19T09:20:31.0000000+00:00'
