@@ -3756,3 +3756,9 @@ Entries:
         Pellets as ammo. These firearms act like BB Guns so watch your eyes.
   id: 469
   time: '2026-06-20T23:37:52.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: Most species should leave footprints again.
+  id: 470
+  time: '2026-06-20T23:38:32.0000000+00:00'
