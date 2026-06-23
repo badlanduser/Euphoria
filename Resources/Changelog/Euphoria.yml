@@ -3853,3 +3853,21 @@ Entries:
       message: Potted plants are now carriable the same way players are.
   id: 481
   time: '2026-06-22T09:21:44.0000000+00:00'
+- author: ScarlettJFG
+  changes:
+    - type: Add
+      message: Geras can Offer!
+    - type: Add
+      message: Geras can Climb onto things (Such as Tables)
+    - type: Add
+      message: Geras can now Buckle into chairs!
+    - type: Add
+      message: >-
+        Geras can escape from inventories by wiggling! (Move while held or in
+        inventory. If you have the small trait, it's like that.)
+    - type: Tweak
+      message: Geras have a Transparency layer as they should.
+    - type: Fix
+      message: Geras having an AI (or at least wandering while SSD)
+  id: 482
+  time: '2026-06-23T10:41:32.0000000+00:00'
