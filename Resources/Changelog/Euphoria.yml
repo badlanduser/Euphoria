@@ -3920,3 +3920,11 @@ Entries:
       message: Added HGI representative plushie and Station mom plushie.
   id: 488
   time: '2026-06-28T13:33:42.0000000+00:00'
+- author: sowelipililimute and JustTNE
+  changes:
+    - type: Add
+      message: It is now legal to sext borgs (Cyborgs and AIs now have inbuilt PDAs).
+    - type: Tweak
+      message: NanoChat works off-grid within the same map.
+  id: 489
+  time: '2026-06-28T13:34:29.0000000+00:00'
