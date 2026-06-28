@@ -3928,3 +3928,9 @@ Entries:
       message: NanoChat works off-grid within the same map.
   id: 489
   time: '2026-06-28T13:34:29.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Tweak
+      message: Some small updates have been made to the Arrivals Terminal.
+  id: 490
+  time: '2026-06-28T13:36:13.0000000+00:00'
