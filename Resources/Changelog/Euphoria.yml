@@ -3972,3 +3972,9 @@ Entries:
       message: Added high-heeled jackboots from Moff Station
   id: 495
   time: '2026-06-30T10:38:15.0000000+00:00'
+- author: UtriculariaCalycifida
+  changes:
+    - type: Tweak
+      message: Ghosts and dead bodies can no longer smell people.
+  id: 496
+  time: '2026-06-30T10:41:21.0000000+00:00'
