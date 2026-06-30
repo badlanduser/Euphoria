@@ -3992,3 +3992,9 @@ Entries:
       message: Kitsune fox forms move their legs and wag their tails when walking.
   id: 498
   time: '2026-06-30T11:23:53.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Re-enabled Medical Multitool to be researched
+  id: 499
+  time: '2026-06-30T11:24:42.0000000+00:00'
