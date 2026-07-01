@@ -4012,3 +4012,11 @@ Entries:
         longer get duplicate PDAs when joining a round.
   id: 501
   time: '2026-06-30T11:29:26.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Add
+      message: Australian Accent
+    - type: Add
+      message: 'Medieval Accent '
+  id: 502
+  time: '2026-07-01T03:03:27.0000000+00:00'
