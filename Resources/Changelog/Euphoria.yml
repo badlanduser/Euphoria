@@ -4140,3 +4140,33 @@ Entries:
       message: Adjustments to the consent of vore
   id: 515
   time: '2026-07-08T07:08:17.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Add
+      message: The ability for recipes to indicate many entity IDs, and amounts.
+    - type: Add
+      message: The ability for recipes to produce reagents.
+    - type: Add
+      message: >-
+        The ability for machines to fill liquid containers with reagents, while
+        also including overflow.
+    - type: Add
+      message: >-
+        Food may now have innate benefits from eating them. Added with
+        FoodEffect.
+    - type: Add
+      message: Guidebook now supports showing multiple outputs as part of a recipe.
+    - type: Tweak
+      message: How recipes can be built. Results can have multiple outputs.
+    - type: Fix
+      message: RecipeBiscuitSimple now produces 4 simple biscuits instead of 1.
+    - type: Fix
+      message: RecipeHotX now produces 2 hot cross buns instead of 1.
+    - type: Fix
+      message: RecipeMeatBun now produces 2 meat buns instead of 1.
+    - type: Fix
+      message: RecipeSausageRaw now produces 3 raw sausages instead of 1
+    - type: Fix
+      message: Guidebook now indicates the correct machine needed to make a recipe.
+  id: 516
+  time: '2026-07-08T10:17:51.0000000+00:00'
