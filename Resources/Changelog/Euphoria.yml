@@ -4114,3 +4114,11 @@ Entries:
         4 items.
   id: 511
   time: '2026-07-07T10:34:49.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Tweak
+      message: >-
+        The Major Mass Mindswap has been disabled for the time being. The minor
+        version of it can still occur.
+  id: 512
+  time: '2026-07-08T06:19:41.0000000+00:00'
