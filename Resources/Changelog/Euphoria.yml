@@ -4194,3 +4194,11 @@ Entries:
       message: Added Whimperlet as a pet.
   id: 520
   time: '2026-07-10T07:25:33.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Pet Bowls are now available in the Pet Store Vending Machine as well as
+        the newer shock collar variant.
+  id: 521
+  time: '2026-07-10T12:45:36.0000000+00:00'
