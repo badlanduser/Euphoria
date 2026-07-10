@@ -4202,3 +4202,13 @@ Entries:
         the newer shock collar variant.
   id: 521
   time: '2026-07-10T12:45:36.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Centcomm says you are all stinky and has allowed for construction of
+        wooden bathtubs.
+    - type: Add
+      message: Pre-filled wooden bath tub for mappers to map into dorms or other areas.
+  id: 522
+  time: '2026-07-10T12:46:19.0000000+00:00'
