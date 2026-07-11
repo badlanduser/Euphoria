@@ -4228,3 +4228,9 @@ Entries:
         when your character is facing west/east)
   id: 524
   time: '2026-07-10T12:48:58.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Tweak
+      message: Floor tiles can now fit in construction bags.
+  id: 525
+  time: '2026-07-11T05:30:25.0000000+00:00'
