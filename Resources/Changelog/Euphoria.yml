@@ -4234,3 +4234,11 @@ Entries:
       message: Floor tiles can now fit in construction bags.
   id: 525
   time: '2026-07-11T05:30:25.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: >-
+        Logi unite you can purchase the Grand Lottery again for 10k spesos. HGI
+        is not responsible for any gambling related addictions.
+  id: 526
+  time: '2026-07-11T05:31:43.0000000+00:00'
