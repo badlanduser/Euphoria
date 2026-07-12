@@ -4278,3 +4278,9 @@ Entries:
         traits.
   id: 530
   time: '2026-07-12T02:45:19.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Grills and Electric Ranges can now heat liquids in beakers.
+  id: 531
+  time: '2026-07-12T09:09:28.0000000+00:00'
