@@ -4306,3 +4306,11 @@ Entries:
         (Fix being worked on)
   id: 534
   time: '2026-07-13T06:37:12.0000000+00:00'
+- author: DuskyJay
+  changes:
+    - type: Tweak
+      message: >-
+        Translators can now be used from the PDA slot for people who use their
+        collar as ID!
+  id: 535
+  time: '2026-07-13T06:40:12.0000000+00:00'
