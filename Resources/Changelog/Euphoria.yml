@@ -4352,3 +4352,11 @@ Entries:
         thavens.
   id: 539
   time: '2026-07-13T06:46:25.0000000+00:00'
+- author: TheRedForestButcher
+  changes:
+    - type: Tweak
+      message: Updated Tortuga with new dorms and an alternative power source.
+    - type: Tweak
+      message: Torgua now has a full justice roles and a security technician job slot.
+  id: 540
+  time: '2026-07-13T14:13:29.0000000+00:00'
