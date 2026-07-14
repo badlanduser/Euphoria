@@ -4372,3 +4372,9 @@ Entries:
       message: No more firing range in Asterisk's sec department.
   id: 541
   time: '2026-07-13T14:28:27.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: Pressing a fire alarm will make fire locks activate again.
+  id: 542
+  time: '2026-07-14T10:58:24.0000000+00:00'
