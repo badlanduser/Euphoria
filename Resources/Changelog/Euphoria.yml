@@ -4400,3 +4400,11 @@ Entries:
       message: Removed Ratkings ability to butcher due to abuse.
   id: 545
   time: '2026-07-16T09:10:45.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: >-
+        Fixed several prediction bugs in regards to narcolepsy and crawling
+        direction toggle.
+  id: 546
+  time: '2026-07-16T09:12:33.0000000+00:00'
