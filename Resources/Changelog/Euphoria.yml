@@ -4442,3 +4442,9 @@ Entries:
         cyborgs are no longer a kinda-science chassis.
   id: 550
   time: '2026-07-17T13:28:29.0000000+00:00'
+- author: Aikakakah
+  changes:
+    - type: Add
+      message: Added loincloths to uniform loadout
+  id: 551
+  time: '2026-07-17T13:56:28.0000000+00:00'
