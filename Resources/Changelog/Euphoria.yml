@@ -4448,3 +4448,9 @@ Entries:
       message: Added loincloths to uniform loadout
   id: 551
   time: '2026-07-17T13:56:28.0000000+00:00'
+- author: DuskyJay
+  changes:
+    - type: Fix
+      message: Fixed issue where pomegranate seeds didn't have a language file entry.
+  id: 552
+  time: '2026-07-19T06:05:59.0000000+00:00'
