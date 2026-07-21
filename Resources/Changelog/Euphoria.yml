@@ -4490,3 +4490,11 @@ Entries:
       message: Chitinids are now properly uninjectable.
   id: 557
   time: '2026-07-21T13:11:41.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: >-
+        Made the Elite/Thermal Suit good again, it was too expensive for "a side
+        DOWN-grade".
+  id: 558
+  time: '2026-07-21T13:13:33.0000000+00:00'
