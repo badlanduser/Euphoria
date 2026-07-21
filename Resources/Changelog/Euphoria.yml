@@ -4466,3 +4466,11 @@ Entries:
       message: 'Removed the cost of the "Unconvertible" trait. '
   id: 554
   time: '2026-07-21T12:47:56.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Tweak
+      message: >-
+        The service smart fridge can now be accessed by passengers for stations
+        that have them public facing.
+  id: 555
+  time: '2026-07-21T13:05:25.0000000+00:00'
