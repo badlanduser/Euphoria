@@ -4514,3 +4514,11 @@ Entries:
         Pathfinder freezer.)
   id: 560
   time: '2026-07-22T10:27:29.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Brat stocks are up, Delight Lollipops have been added to the Shady Cigs
+        Vendor.
+  id: 561
+  time: '2026-07-22T10:29:16.0000000+00:00'
