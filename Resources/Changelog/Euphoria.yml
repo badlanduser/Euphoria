@@ -4498,3 +4498,11 @@ Entries:
         DOWN-grade".
   id: 558
   time: '2026-07-21T13:13:33.0000000+00:00'
+- author: faefyr
+  changes:
+    - type: Add
+      message: Dr. Gibb Creamsoda + Horny Drink Variation
+    - type: Add
+      message: Dr. Gibb Creamsoda Lobby Art
+  id: 559
+  time: '2026-07-22T10:12:24.0000000+00:00'
