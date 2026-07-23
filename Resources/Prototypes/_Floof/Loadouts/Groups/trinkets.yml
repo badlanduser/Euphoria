@@ -44,6 +44,8 @@
   - FlippableCoinClown
   - FlippableCoinDiamond
   - FlippableCoinPlasma
+  - CombBrush
+  - HairBrush
 
 - type: loadoutGroup
   id: SexToys
