@@ -4556,3 +4556,9 @@ Entries:
         wearing a translator in their ID slot.
   id: 566
   time: '2026-07-23T04:47:40.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Hair brushes have been added to Loadouts and the Pet Shop.
+  id: 567
+  time: '2026-07-23T08:21:37.0000000+00:00'
