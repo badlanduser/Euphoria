@@ -4562,3 +4562,11 @@ Entries:
       message: Hair brushes have been added to Loadouts and the Pet Shop.
   id: 567
   time: '2026-07-23T08:21:37.0000000+00:00'
+- author: ScarlettJFG
+  changes:
+    - type: Fix
+      message: >-
+        Freezers, coolers, and cold environments stop rotting. (Brains still Rot
+        in MMI's in the open.)
+  id: 568
+  time: '2026-07-23T09:21:54.0000000+00:00'
