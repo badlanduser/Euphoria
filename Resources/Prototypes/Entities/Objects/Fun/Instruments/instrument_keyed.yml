@@ -43,6 +43,7 @@
     quickEquip: false
     slots:
     - neck
+    - belt
     sprite: Objects/Fun/Instruments/h_synthesizer.rsi
   - type: Item
     heldPrefix: super
