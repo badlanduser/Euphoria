@@ -39,6 +39,9 @@
         },
         {
             "name": "ai_monkey"
+        },
+        {
+            "name": "ai_cheeseio"
         }
     ]
 }

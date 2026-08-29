@@ -8,6 +8,7 @@
   - StationAiIconAngel
   - StationAiIconBliss
   - StationAiIconClown
+  - StationAiIconCheeseio
   - StationAiIconDorf
   - StationAiIconHeartline
   - StationAiIconSmiley
@@ -21,6 +22,7 @@
   - StationAiHologramMale
   - StationAiHologramFace
   - StationAiHologramCat
+  - StationAiHologramCheeseio
   - StationAiHologramDog
   - StationAiHologramKobold
   - StationAiHologramMonkey
@@ -81,6 +83,18 @@
     Dead:
       sprite: Mobs/Silicon/station_ai.rsi
       state: ai_clown_dead
+
+- type: stationAiCustomization
+  parent: StationAiIconBase
+  id: StationAiIconCheeseio
+  name: station-ai-icon-cheeseio
+  layerData:
+    Occupied:
+      sprite: Mobs/Silicon/station_ai.rsi
+      state: ai_cheeseio
+    Dead:
+      sprite: Mobs/Silicon/station_ai.rsi
+      state: ai_dead
 
 - type: stationAiCustomization
   parent: StationAiIconBase
@@ -154,6 +168,15 @@
     Hologram:
       sprite: Mobs/Silicon/holograms.rsi
       state: ai_cat
+
+- type: stationAiCustomization
+  id: StationAiHologramCheeseio
+  name: station-ai-hologram-cheeseio
+  previewKey: Hologram
+  layerData:
+    Hologram:
+      sprite: Mobs/Silicon/holograms.rsi
+      state: ai_cheeseio
 
 - type: stationAiCustomization
   id: StationAiHologramDog
